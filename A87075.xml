@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A happy discovery of the strange and fearefull plots layde by our cavaleirs for invading of Hul, and surprizing Sr. Iohn Hotham. And how by night they intended utterly to destroy both, but were suddainly taken. Likewise, the victorions [sic] exploit and conquest of certaine corragious prentises traviling to Yorke to learne proceedings, had over the malignant party. Iohn, Brow. Cler. Parl.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87075</idno>
+            <idno type="STC">Wing H668</idno>
+            <idno type="STC">Thomason E109_17</idno>
+            <idno type="STC">ESTC R6473</idno>
+            <idno type="EEBO-CITATION">99873000</idno>
+            <idno type="PROQUEST">99873000</idno>
+            <idno type="VID">125447</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87075)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125447)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E109[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A happy discovery of the strange and fearefull plots layde by our cavaleirs for invading of Hul, and surprizing Sr. Iohn Hotham. And how by night they intended utterly to destroy both, but were suddainly taken. Likewise, the victorions [sic] exploit and conquest of certaine corragious prentises traviling to Yorke to learne proceedings, had over the malignant party. Iohn, Brow. Cler. Parl.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>August. 6. Printed for Io Hundgate,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hotham, John, --  Sir, d. 1645 Jan. 2 --  Early works to 1800.</term>
+               <term>Hull (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125447:1" rendition="simple:additions"/>
+            <p>A HAPPY DISCOVERY Of the ſtrange and fearefull PLOTS Layde by our Cavaleirs for invading of <hi>HVL,</hi> and ſur<g ref="char:EOLhyphen"/>prizing Sr. <hi>Iohn Hotham.</hi>
+            </p>
+            <p>AND How by night they intended utterly to deſtroy both, but were ſuddainly taken.</p>
+            <p>LIKEWISE, The victorious exploit and conqueſt of certaine corragi<g ref="char:EOLhyphen"/>ous Prentiſes traviling to <hi>Yorke</hi> to Learne Proceedings, had over the malig<g ref="char:EOLhyphen"/>nant party.</p>
+            <p>
+               <hi>Iohn, Brow. Cler. Parl.</hi>
+            </p>
+            <p>
+               <hi>Auguſt.</hi> 6. Printed for <hi>Io Hundgate.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:125447:2"/>
+            <pb facs="tcp:125447:2"/>
+            <head>SVDDEN NEWES <hi>FROM</hi> HVLL.</head>
+            <p>
+               <seg rend="decorInit">D</seg>Iving into the center of theſe plots which have threatned the downfall of our depreſſed Common-wealth, I addreſſed my ſelfe as well to impeach the clouded enemy, as infuſe com<g ref="char:EOLhyphen"/>fortt to our ſinking ſpirits, to point out the un<g ref="char:EOLhyphen"/>willing truth with ſtragling penmanſhip.</p>
+            <p>We are daily eye-witneſſes of ſeditious Pamphlets, which (as falſe alarms) either ter<g ref="char:EOLhyphen"/>riſie us at firſt view, with conceited flaſhes, or elſe houſe us in dangerous ſecurity by their ſil<g ref="char:EOLhyphen"/>ver ſpeeches, ſo that muffled with ſuch penny ſtuffe, wee cannot judge of affaires without truths enemy, Partiality.</p>
+            <p>Alwayes ate we ſtifled with the unſavoury ſent of unfortunate progreſſes, which drives us into a medley, as whoſe reeling faith knowes not which way to incline, whether to King or Parliament.</p>
+            <p>Tha honourable Aſſembly in Parliament is envied againſt by ſome, as if thoſe Pillars had
+<pb facs="tcp:125447:3"/>or doe ſtoop under their diſtracted burthen: Soveraignity others trample upon, who as thoſe liſping children to <hi>David,</hi> cry, <hi>Come and help us,</hi> our conceits ſit in counſell, and give verdict <hi>pro &amp; con ad pl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>citum;</hi> thus are our fears augme<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted or p preſſed, as apprehenſion ſerves.</p>
+            <p>Our Kingdome now is cut in twaine, two par<g ref="char:EOLhyphen"/>tie more indeed then enough, dwell among us: the one voluntiers ſtand to, the other Cavaliers, on whoſe forces depends the ſafety of our Com<g ref="char:EOLhyphen"/>mon-wealth, which I pray God may not turn to ruine, as they are thwarted, we may iuſtly feare the worſt, for ſtill ere they flurt each upon o<g ref="char:EOLhyphen"/>ther, not onely to the ſpoile of their perſons, but the unreſolved Realme. Some of their counter buffs we are ſtruck with, which begin to totter with their ſtedfaſt fury. Many and ſundry rimes have the Kings Cavaliers caſt about for the ſub<g ref="char:EOLhyphen"/>verſion of Hull, whoſe perſiſting exploits are in-interpreted in the language of Rebellion, how<g ref="char:EOLhyphen"/>ever they, by the benignity of Fortune, have be<g ref="char:EOLhyphen"/>have behaved thrmſelves, or through cruelty of Fate, or knowledge is truſted with. Divers times have they in he eyes of the world, attempted Hull, but ſince they have not pro<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cded Maſters of their Art, they have canopied their plots with dark ſecreſie. It was agitated amongſt them that the onely way to crowne their actions was privately to creep into the heart of the town for the full poſſeſſion whereof they with a mu<g ref="char:EOLhyphen"/>tuall conſent intended intrinſically to maske
+<pb facs="tcp:125447:3"/>them<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ves with the vizards of the Parliaments adiuvants, and to enter under colour of well-willng ſubiects, uſurping faigned authority with the ſtolne name of a generall; which in<g ref="char:EOLhyphen"/>tent they put in execution, and marching undhr vaile of twilight, in ſmall parcells, that ſuſpi<g ref="char:EOLhyphen"/>tion might not ſtand their overthrowing judge, they by peacemeale were buttoned in the town, though not without preceding examination.</p>
+            <p>Who, when they had intownd themſelves, ſet their thoughts at liberty, and crumbling to<g ref="char:EOLhyphen"/>gether, chewd the cud, how they might by be<g ref="char:EOLhyphen"/>girting Sir <hi>Iohn Hothams</hi> dwelling, become Maſter of his perſon: their opinions circled: and with the world went round. One Captaine <hi>Thach</hi> beholding to nature for a pregnant wit, whiſpered to them the time and places, when, and where every one ſhould ſtand in poſture of War; determining firſt to Captiuate the good Knight, and then to ſtop the current of thoſe floods which often at will uſe to incro<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch on and baptize the Land. But it fortuned that through the diſtemperature of ſome who had paſſed through the diſcipline of a Taverne and were ſlaved to ebriety, the diſtemperature of that ſtrong magazine which might have inſued, became abortive. For eruptions of words broke from them, which drew out their deſignes with a ſhamefull bluſh, ſome were taken, others ſuſpected, moſt fled.</p>
+            <pb facs="tcp:125447:4"/>
+            <p>Thus their deliverance was wrought, elſe might they have ſuckt the poyſon of their inve<g ref="char:EOLhyphen"/>terate ma<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce; That worthy Knight had found a priſon of his owne houſe, or have periſht without a combate, the Watch and Guard da<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gerouſly ma<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cht, not onely in the bowels of of that towne were thoſe menacing promiſcu<g ref="char:EOLhyphen"/>ous excrements, but upon a watch-word exter<g ref="char:EOLhyphen"/>nate troopes waiting as <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>di<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ors without, were ready to force it to a gaſhly fright or a fearfull flight. But the ſnare was as broken as their cauſe and ſafety annext to truſty ſubie<g ref="char:EOLhyphen"/>ction, walkes up and downe the ſtreets. This adventure did not caſhiere them of their ſpi<g ref="char:EOLhyphen"/>rits, but bountifully fed their watchfulneſſe with the Aqua vitae of carefull audacity. Expe<g ref="char:EOLhyphen"/>rience lent them eyes, which glancing intelle<g ref="char:EOLhyphen"/>ctually on unacted devices, invited unuſuall care not guilty of repentance: Now have they learnt to ſally out, and to looke to their tenants within, to ſpue out ſuch venemous ſerpents: yea revenge ſate in their wrinkled browes, which marſhalled their forces againſt the out ragious onſets of their inſinuating adverſaries: for directing their ſteps out of the gates, they ſcoured up and downe to inveſtigate the blood thirſty Dor-Mice that lay in ambuſh, whom they eſpyed basking under the hedges in con<g ref="char:EOLhyphen"/>fuſed heaps: and after the ſword had ſome<g ref="char:EOLhyphen"/>time diſcarged its office: many, on whoſe leaden breaſt doting ſleep was exceeding fond, ſlept their laſt.
+<pb facs="tcp:125447:4"/>Others let words creepe up their throats, with a come helpe: by which meanes their compa<g ref="char:EOLhyphen"/>nions ſuſpecting nothing loſſe, but the towne had been their owne, ioyfully to their ſorrow, ſome raced it, accuſing Nature, that they were not aided with wings. All were ſeparated, and ſo eſcapt Cavellier-free. Thus were they trownſed for their tomerous adventures, and not long after were ſerved the ſame ſauce: for it fortuned that ſome wel minded Souldier-pren<g ref="char:EOLhyphen"/>tiſes, who voluntarily, and valiently were re<g ref="char:EOLhyphen"/>ſolved, traverſing the Northerne parts, met with a rout of mounted Field Gamſters: who upon demand of what ſide they were, and there<g ref="char:EOLhyphen"/>upon ſome viniger language fiercely flew on them: the skirmiſh was ſharpe as were their weapons, with which they brought many a horſeman to a foot-race: who ſcapt, may thanke their beaſts, thoſe that were ſcarrified, may thanke themſelves. Such have been the iſ<g ref="char:EOLhyphen"/>ſues of their imbraced ſervices. Thus while they take heart, not of grace, to fabricate ab<g ref="char:EOLhyphen"/>hord exploits their machanations end with lives, at leaſt misfortune.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
